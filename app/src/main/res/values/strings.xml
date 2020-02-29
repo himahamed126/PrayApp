@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pray App</string>
+    <string name="fajr">الفجر</string>
+    <string name="progress">التقدم</string>
+    <string name="done_pray">ممتاز لقد صليت كل فروض اليوم</string>
+    <string name="history">السجل</string>
+    <string name="date">4–2–2020</string>
+    <string name="name_">ibrahim ahmed</string>
+    <string name="zohr">الظهر</string>
+    <string name="asr">العصر</string>
+    <string name="maghrb">المغرب</string>
+    <string name="asha">العشاء</string>
+</resources>

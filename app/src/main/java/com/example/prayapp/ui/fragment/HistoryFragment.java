@@ -31,7 +31,7 @@ public class HistoryFragment extends BaseFragment {
 
     private PraysViewModel mPraysViewModel;
     private HistoryAdapter historyAdapter;
-//
+
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_history, container, false);
